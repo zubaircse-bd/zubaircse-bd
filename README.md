@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Zubair
 
-<!--
-**zubaircse-bd/zubaircse-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Software Engineer with 6+ years of experience  
+🧠 Specialized in building scalable web apps with .NET Core, Angular, SQL  
+☁️ Cloud enthusiast – Azure DevOps, App Services, and Azure SQL  
+🛠️ Passionate about clean code, microservices, and automation
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** C#, JavaScript, TypeScript, SQL
+- **Frameworks:** .NET Core, Angular
+- **Database:** SQL Server, EF Core
+- **DevOps:** Azure Pipelines, GitHub Actions, Docker
+- **Cloud:** Azure (App Services, Azure SQL, Blob Storage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubaircse-bd&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+- 🌐 [Portfolio](https://zubaircse.com)
+- 💼 [LinkedIn](https://linkedin.com/in/zubaircse)
+- 📧 mdzubair.cse@gmail.com
