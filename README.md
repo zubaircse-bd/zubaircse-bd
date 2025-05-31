@@ -10,7 +10,7 @@
 - **Frameworks:** .NET Core, Angular
 - **Database:** SQL Server, EF Core
 - **DevOps:** Azure Pipelines, GitHub Actions, Docker
-- **Cloud:** Azure (App Services, Azure SQL, Blob Storage)
+- **Cloud:** Azure (Azure Entra ID, App Services, Container App, Azure Data Factory, Function App, Azure SQL, Blob Storage)
 
 ## 📈 GitHub Stats
 ![Zubair's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubaircse-bd&show_icons=true&theme=radical)
